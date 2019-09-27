@@ -23,4 +23,10 @@ public class MemberVO {
 	public void setAge(String age) {
 		this.age = age;
 	}
+	@Override
+	public String toString() {
+		return "MemberVO [bno=" + bno + ", name=" + name + ", age=" + age + "]";
+	}
+	
+	
 }
