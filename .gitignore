@@ -105,4 +105,3 @@ hs_err_pid*
 target/
 META-INF/
 # End of https://www.gitignore.io/api/java,eclipse,java-web,code-java
-/build/
