@@ -18,10 +18,5 @@
 		<li>JSP</li>
 		<li>SERVLET</li>
 	</ul>
-	<ul>
-		<li>오라클</li>
-		<li>MYSQL</li>
-		<li>MongoDB</li>
-	</ul>
 </body>
 </html>
